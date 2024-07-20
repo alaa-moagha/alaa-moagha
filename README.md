@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Alaa Mohamad Agha from Syria/ Master student at SVU: Computer Science
+- Junior Flutter Developer looking for a vacancy (on-site, remote, part-time, full-time)
 - 👀 I’m interested in Flutter & AI
 - 🌱 I’m currently improving my programming skills in Flutter & learning ML
 - 💞️ I’m looking to collaborate on building new apps & learning new stuff
